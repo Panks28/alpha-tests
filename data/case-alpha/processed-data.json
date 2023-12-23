@@ -1,0 +1,393 @@
+[
+    {
+        "id": 3,
+        "name": "School C",
+        "created_at": "2020-03-03",
+        "members": [
+            {
+                "id": 4,
+                "school_id": 3,
+                "teacher_id": null,
+                "name": "Teacher CA",
+                "role": "teacher",
+                "created_at": "2020-03-03",
+                "students": [
+                    {
+                        "id": 49,
+                        "school_id": "3",
+                        "teacher_id": 4,
+                        "name": "Craig Sullivan",
+                        "role": "student",
+                        "created_at": "2021-01-06",
+                        "marks": 88
+                    },
+                    {
+                        "id": 89,
+                        "school_id": "3",
+                        "teacher_id": 4,
+                        "name": "Axel Kelly",
+                        "role": "student",
+                        "created_at": "2020-12-25",
+                        "marks": 64
+                    },
+                    {
+                        "id": 95,
+                        "school_id": "3",
+                        "teacher_id": 4,
+                        "name": "Kibo Burris",
+                        "role": "student",
+                        "created_at": "2020-10-02",
+                        "marks": 53
+                    },
+                    {
+                        "id": 102,
+                        "school_id": "3",
+                        "teacher_id": 4,
+                        "name": "Kasimir Ford",
+                        "role": "student",
+                        "created_at": "2020-10-31",
+                        "marks": 67
+                    }
+                ],
+                "marks": 272
+            },
+            {
+                "id": 7,
+                "school_id": 3,
+                "teacher_id": null,
+                "name": "Teacher CB",
+                "role": "teacher",
+                "created_at": "2020-03-03",
+                "students": [
+                    {
+                        "id": 34,
+                        "school_id": "3",
+                        "teacher_id": 7,
+                        "name": "Tate Underwood",
+                        "role": "student",
+                        "created_at": "2020-08-05",
+                        "marks": 88
+                    },
+                    {
+                        "id": 66,
+                        "school_id": "3",
+                        "teacher_id": 7,
+                        "name": "Hilary Hess",
+                        "role": "student",
+                        "created_at": "2020-07-15",
+                        "marks": 88
+                    },
+                    {
+                        "id": 83,
+                        "school_id": "3",
+                        "teacher_id": 7,
+                        "name": "Craig Palmer",
+                        "role": "student",
+                        "created_at": "2020-04-15",
+                        "marks": 58
+                    },
+                    {
+                        "id": 101,
+                        "school_id": "3",
+                        "teacher_id": 7,
+                        "name": "Zachary Levy",
+                        "role": "student",
+                        "created_at": "2020-06-02",
+                        "marks": 57
+                    },
+                    {
+                        "id": 109,
+                        "school_id": "3",
+                        "teacher_id": 7,
+                        "name": "Matthew Mclean",
+                        "role": "student",
+                        "created_at": "2020-06-18",
+                        "marks": 88
+                    }
+                ],
+                "marks": 379
+            },
+            {
+                "id": 8,
+                "school_id": 3,
+                "teacher_id": null,
+                "name": "Teacher CC",
+                "role": "teacher",
+                "created_at": "2020-03-03",
+                "students": [
+                    {
+                        "id": 51,
+                        "school_id": "3",
+                        "teacher_id": 8,
+                        "name": "Paul Gomez",
+                        "role": "student",
+                        "created_at": "2020-06-10",
+                        "marks": 90
+                    },
+                    {
+                        "id": 63,
+                        "school_id": "3",
+                        "teacher_id": 8,
+                        "name": "Florence Hartman",
+                        "role": "student",
+                        "created_at": "2020-03-19",
+                        "marks": 98
+                    },
+                    {
+                        "id": 79,
+                        "school_id": "3",
+                        "teacher_id": 8,
+                        "name": "Philip Faulkner",
+                        "role": "student",
+                        "created_at": "2020-06-10",
+                        "marks": 94
+                    }
+                ],
+                "marks": 282
+            }
+        ],
+        "marks": 933
+    },
+    {
+        "id": 1,
+        "name": "School A",
+        "created_at": "2020-03-01",
+        "members": [
+            {
+                "id": 1,
+                "school_id": 1,
+                "teacher_id": null,
+                "name": "Teacher AA",
+                "role": "teacher",
+                "created_at": "2020-03-01",
+                "students": [
+                    {
+                        "id": 9,
+                        "school_id": 1,
+                        "teacher_id": 1,
+                        "name": "Student XX",
+                        "role": "student",
+                        "created_at": "2020-03-03",
+                        "marks": 0
+                    },
+                    {
+                        "id": 14,
+                        "school_id": "1",
+                        "teacher_id": 1,
+                        "name": "Forrest Berg",
+                        "role": "student",
+                        "created_at": "2020-10-29",
+                        "marks": 69
+                    },
+                    {
+                        "id": 19,
+                        "school_id": "1",
+                        "teacher_id": 1,
+                        "name": "Joel Cunningham",
+                        "role": "student",
+                        "created_at": "2020-05-19",
+                        "marks": 77
+                    },
+                    {
+                        "id": 54,
+                        "school_id": "1",
+                        "teacher_id": 1,
+                        "name": "Cody Diaz",
+                        "role": "student",
+                        "created_at": "2021-02-12",
+                        "marks": 74
+                    },
+                    {
+                        "id": 70,
+                        "school_id": "1",
+                        "teacher_id": 1,
+                        "name": "Cara Patton",
+                        "role": "student",
+                        "created_at": "2021-01-27",
+                        "marks": 84
+                    },
+                    {
+                        "id": 81,
+                        "school_id": "1",
+                        "teacher_id": 1,
+                        "name": "Odessa Massey",
+                        "role": "student",
+                        "created_at": "2020-06-18",
+                        "marks": 79
+                    }
+                ],
+                "marks": 383
+            },
+            {
+                "id": 2,
+                "school_id": 1,
+                "teacher_id": null,
+                "name": "Teacher AB",
+                "role": "teacher",
+                "created_at": "2020-03-01",
+                "students": [
+                    {
+                        "id": 35,
+                        "school_id": "1",
+                        "teacher_id": 2,
+                        "name": "Amos Buckner",
+                        "role": "student",
+                        "created_at": "2021-01-14",
+                        "marks": 80
+                    },
+                    {
+                        "id": 44,
+                        "school_id": "1",
+                        "teacher_id": 2,
+                        "name": "Daniel Vargas",
+                        "role": "student",
+                        "created_at": "2021-02-19",
+                        "marks": 54
+                    },
+                    {
+                        "id": 82,
+                        "school_id": "1",
+                        "teacher_id": 2,
+                        "name": "Sacha Burnett",
+                        "role": "student",
+                        "created_at": "2020-10-12",
+                        "marks": 50
+                    },
+                    {
+                        "id": 108,
+                        "school_id": "1",
+                        "teacher_id": 2,
+                        "name": "Meghan Mccarty",
+                        "role": "student",
+                        "created_at": "2020-08-30",
+                        "marks": 77
+                    }
+                ],
+                "marks": 261
+            }
+        ],
+        "marks": 644
+    },
+    {
+        "id": 2,
+        "name": "School B",
+        "created_at": "2020-03-01",
+        "members": [
+            {
+                "id": 3,
+                "school_id": 2,
+                "teacher_id": null,
+                "name": "Teacher BA",
+                "role": "teacher",
+                "created_at": "2020-03-02",
+                "students": [
+                    {
+                        "id": 11,
+                        "school_id": "2",
+                        "teacher_id": 3,
+                        "name": "Portia Vinson",
+                        "role": "student",
+                        "created_at": "2021-02-20",
+                        "marks": 61
+                    }
+                ],
+                "marks": 61
+            },
+            {
+                "id": 5,
+                "school_id": 2,
+                "teacher_id": null,
+                "name": "Teacher BB",
+                "role": "teacher",
+                "created_at": "2020-03-02",
+                "students": [
+                    {
+                        "id": 37,
+                        "school_id": "2",
+                        "teacher_id": 5,
+                        "name": "Owen Faulkner",
+                        "role": "student",
+                        "created_at": "2020-11-04",
+                        "marks": 97
+                    },
+                    {
+                        "id": 52,
+                        "school_id": "2",
+                        "teacher_id": 5,
+                        "name": "Kellie Mills",
+                        "role": "student",
+                        "created_at": "2020-07-26",
+                        "marks": 63
+                    },
+                    {
+                        "id": 98,
+                        "school_id": "2",
+                        "teacher_id": 5,
+                        "name": "Celeste Byers",
+                        "role": "student",
+                        "created_at": "2020-10-26",
+                        "marks": 80
+                    }
+                ],
+                "marks": 240
+            },
+            {
+                "id": 6,
+                "school_id": 2,
+                "teacher_id": null,
+                "name": "Teacher BC",
+                "role": "teacher",
+                "created_at": "2020-03-02",
+                "students": [
+                    {
+                        "id": 15,
+                        "school_id": "2",
+                        "teacher_id": 6,
+                        "name": "Otto Park",
+                        "role": "student",
+                        "created_at": "2020-10-18",
+                        "marks": 78
+                    },
+                    {
+                        "id": 31,
+                        "school_id": "2",
+                        "teacher_id": 6,
+                        "name": "Eric Joseph",
+                        "role": "student",
+                        "created_at": "2020-03-02",
+                        "marks": 71
+                    },
+                    {
+                        "id": 45,
+                        "school_id": "2",
+                        "teacher_id": 6,
+                        "name": "Alec Hall",
+                        "role": "student",
+                        "created_at": "2021-02-05",
+                        "marks": 61
+                    },
+                    {
+                        "id": 62,
+                        "school_id": "2",
+                        "teacher_id": 6,
+                        "name": "Bianca Obrien",
+                        "role": "student",
+                        "created_at": "2020-10-16",
+                        "marks": 50
+                    },
+                    {
+                        "id": 64,
+                        "school_id": "2",
+                        "teacher_id": 6,
+                        "name": "Roth Morton",
+                        "role": "student",
+                        "created_at": "2020-03-31",
+                        "marks": 58
+                    }
+                ],
+                "marks": 318
+            }
+        ],
+        "marks": 619
+    }
+]

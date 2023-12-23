@@ -1,0 +1,253 @@
+{
+    "records": [
+        {
+            "name": "tenth-a",
+            "students": [
+                {
+                    "name": {
+                        "first": "John",
+                        "last": "Doe"
+                    },
+                    "dob": "1981-10-24",
+                    "class": "tenth-a",
+                    "marks": [
+                        {
+                            "subject": "English",
+                            "marks": 38
+                        },
+                        {
+                            "subject": "Maths",
+                            "marks": 43
+                        },
+                        {
+                            "subject": "Physics",
+                            "marks": 28
+                        },
+                        {
+                            "subject": "Chemistry",
+                            "marks": 38
+                        }
+                    ],
+                    "title": "John Doe",
+                    "totalMarks": 147
+                },
+                {
+                    "name": {
+                        "first": "Jane",
+                        "last": "Doe"
+                    },
+                    "dob": "1995-01-29",
+                    "class": "tenth-a",
+                    "marks": [
+                        {
+                            "subject": "English",
+                            "marks": 48
+                        },
+                        {
+                            "subject": "Maths",
+                            "marks": 28
+                        },
+                        {
+                            "subject": "Physics",
+                            "marks": 38
+                        },
+                        {
+                            "subject": "Chemistry",
+                            "marks": 18
+                        }
+                    ],
+                    "title": "Jane Doe",
+                    "totalMarks": 132
+                },
+                {
+                    "name": {
+                        "first": "Bob",
+                        "last": "Doe"
+                    },
+                    "dob": "1984-05-05",
+                    "class": "tenth-a",
+                    "marks": [
+                        {
+                            "subject": "English",
+                            "marks": 25
+                        },
+                        {
+                            "subject": "Maths",
+                            "marks": 19
+                        },
+                        {
+                            "subject": "Physics",
+                            "marks": 41
+                        },
+                        {
+                            "subject": "Chemistry",
+                            "marks": 30
+                        }
+                    ],
+                    "title": "Bob Doe",
+                    "totalMarks": 115
+                }
+            ]
+        },
+        {
+            "name": "tenth-b",
+            "students": [
+                {
+                    "name": {
+                        "first": "Ron",
+                        "last": "Doe"
+                    },
+                    "dob": "1994-10-21",
+                    "class": "tenth-b",
+                    "marks": [
+                        {
+                            "subject": "English",
+                            "marks": 49
+                        },
+                        {
+                            "subject": "Maths",
+                            "marks": 41
+                        },
+                        {
+                            "subject": "Physics",
+                            "marks": 17
+                        },
+                        {
+                            "subject": "Chemistry",
+                            "marks": 22
+                        }
+                    ],
+                    "title": "Ron Doe",
+                    "totalMarks": 129
+                },
+                {
+                    "name": {
+                        "first": "Mary",
+                        "last": "Doe"
+                    },
+                    "dob": "1981-11-18",
+                    "class": "tenth-b",
+                    "marks": [
+                        {
+                            "subject": "English",
+                            "marks": 19
+                        },
+                        {
+                            "subject": "Maths",
+                            "marks": 47
+                        },
+                        {
+                            "subject": "Physics",
+                            "marks": 39
+                        },
+                        {
+                            "subject": "Chemistry",
+                            "marks": 17.5
+                        }
+                    ],
+                    "title": "Mary Doe",
+                    "totalMarks": 122.5
+                },
+                {
+                    "name": {
+                        "first": "Seth",
+                        "last": "Doe"
+                    },
+                    "dob": "1988-10-24",
+                    "class": "tenth-b",
+                    "marks": [
+                        {
+                            "subject": "English",
+                            "marks": 44
+                        },
+                        {
+                            "subject": "Maths",
+                            "marks": 18
+                        },
+                        {
+                            "subject": "Physics",
+                            "marks": 24
+                        },
+                        {
+                            "subject": "Chemistry",
+                            "marks": 29
+                        }
+                    ],
+                    "title": "Seth Doe",
+                    "totalMarks": 115
+                }
+            ]
+        },
+        {
+            "name": "tenth-c",
+            "students": [
+                {
+                    "name": {
+                        "first": "Luke",
+                        "last": "Doe"
+                    },
+                    "dob": "1981-10-29",
+                    "class": "tenth-c",
+                    "marks": [
+                        {
+                            "subject": "English",
+                            "marks": 45
+                        },
+                        {
+                            "subject": "Maths",
+                            "marks": 48
+                        },
+                        {
+                            "subject": "Physics",
+                            "marks": 12
+                        },
+                        {
+                            "subject": "Chemistry",
+                            "marks": 19
+                        }
+                    ],
+                    "title": "Luke Doe",
+                    "totalMarks": 112
+                },
+                {
+                    "name": {
+                        "first": "Carmen",
+                        "last": "Doe"
+                    },
+                    "dob": "1998-07-24",
+                    "class": "tenth-c",
+                    "marks": [
+                        {
+                            "subject": "English",
+                            "marks": 15
+                        },
+                        {
+                            "subject": "Maths",
+                            "marks": 19
+                        },
+                        {
+                            "subject": "Physics",
+                            "marks": 48
+                        },
+                        {
+                            "subject": "Chemistry",
+                            "marks": 8
+                        }
+                    ],
+                    "title": "Carmen Doe",
+                    "totalMarks": 67
+                }
+            ]
+        }
+    ],
+    "top": [
+        "John Doe from tenth-a obtained 147",
+        "Jane Doe from tenth-a obtained 132",
+        "Ron Doe from tenth-b obtained 129",
+        "Mary Doe from tenth-b obtained 122.5",
+        "Bob Doe from tenth-a obtained 115",
+        "Seth Doe from tenth-b obtained 115",
+        "Luke Doe from tenth-c obtained 112",
+        "Carmen Doe from tenth-c obtained 67"
+    ]
+}
