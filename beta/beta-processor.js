@@ -66,10 +66,6 @@ const processData = (data) => {
     );
   }
 
-  // 281416
-
-  // 171974276
-
   for (let i = 0; i < resultObj.records.length; i++) {
     resultObj.records[i].students.sort((a, b) => b.totalMarks - a.totalMarks);
   }
